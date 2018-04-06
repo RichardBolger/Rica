@@ -6,7 +6,7 @@
 # Decompressor.java - uses jsfml to display compressed images
 # cc.sh - script to decompress jpeg image sets to uncompressed bmps and measure the docker cpu ticks used
 # rmse.cmd - script that uses imagemagics to see generate RMSE between image sets
-# decomp.c - C program to decompress the images without the JVM ioverhead
+# decomp.c - C program to decompress the images in a docker container using machine code without the JVM overhead
 #
 #
 #
